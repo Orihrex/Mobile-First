@@ -29,6 +29,25 @@
                 <h3>Photo One</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
+            <img src="joel-rivera-camacho-MbQOFJZagWw-unsplash.jpg" alt="">
+            <div class="caption">
+                <h3>Photo One</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+             </div>
+
+            <img src="joel-rivera-camacho-MbQOFJZagWw-unsplash.jpg" alt="">
+            <div class="caption">
+                <h3>Photo One</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+             </div>
+
+            <img src="joel-rivera-camacho-MbQOFJZagWw-unsplash.jpg" alt="">
+            <div class="caption">
+                <h3>Photo One</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
         </div>
     </main>
 </body>
