@@ -50,5 +50,11 @@
             </div>
         </div>
     </main>
+    <footer>
+        <h3>Get In Touch</h3>
+        <p>Email or call us to set up a consultation</p>
+        <p>Email: <strong>info@artilaryphotography.com</strong></p>
+        <p>Phone: <strong>(234) 567-8901</strong></p>
+    </footer>
 </body>
 </html>
