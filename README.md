@@ -31,7 +31,7 @@
             </div>
             <img src="museums-victoria-YXYYZtiVdD8-unsplash.jpg" alt="">
             <div class="caption">
-                <h4>Photo Two</h4>
+                <h3>Photo Two</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
              </div>
