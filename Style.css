@@ -48,3 +48,15 @@ main {
     padding-right: 1rem; 
 }
 
+#landing-text h2 {
+    color: #888;
+}
+
+.btn {
+    padding: 0.5rem 2rem;
+    border: 1px solid #ccc;
+    display: inline-block;
+    margin: 2rem 0 0;
+    border-radius: 50px;
+}
+
