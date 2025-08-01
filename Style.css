@@ -78,4 +78,15 @@ main {
     background: #f4f4f4;
 }
 
+#header {
+    padding: 1.5rem;
+    text-align: center;
+    background: #333;
+    color: #fff;
+} 
+
+#header h2 {
+
+}
+
 
